@@ -1,0 +1,58 @@
+
+.zdj img {
+	width: 550px;
+	height: 375px;
+  float: left;
+  margin-right: 100px;
+}
+
+#t {
+  border: 5px solid black;
+  border-collapse: collapse;
+  border-style: double solid;
+  background-color: #99FFFF;
+  width: 280px;
+  height: 480px;
+  float: right;
+}
+
+.td1 {
+  border: 1px solid black;
+  border-style: dashed;
+}
+
+.komis {
+  font-family: 'Copperplate Gothic Light';
+	font-weight: 900;
+}
+
+.tekst {
+  border: 5px solid black;
+  border-collapse: collapse;
+  border-style: double solid;
+  background-color: #99FFFF;
+  width: 750px;
+  margin-left: 40px;
+  float: right;
+}
+
+.td2 {
+  font-family: 'Copperplate Gothic Light';
+	font-weight: 900;
+  width: 200px;
+  font-size: 30px;
+  margin: 100px;
+}
+
+.td_cena {
+  font-family: 'Copperplate Gothic Light';
+	font-weight: 900;
+  font-size: 30px;
+}
+
+.flex-container {
+  display: flex;
+	justify-content: center;
+  margin-top: 150px;
+  padding: 20px;
+}
